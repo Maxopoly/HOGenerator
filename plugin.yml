@@ -1,0 +1,5 @@
+name: Testo
+version: 1.0
+authors: [max, ich, maxopoly]
+depend: []
+main: test.bla.Main
